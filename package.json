@@ -1,6 +1,5 @@
 {
   "name": "bizmap",
-  "homepage": "https://Bizmap.dexignzone.com/react/demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
