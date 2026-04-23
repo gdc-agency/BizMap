@@ -102,7 +102,7 @@ const Footer = () => {
 				<div className="container">
 					<div className="row">
 						<div className="col-lg-12 text-center">
-							<span className="fbottom-like"> Design With <Link className="like-btn" to={"#"}><i className="fa fa-heart"></i></Link> By <a href="https://globaldigitalcare.pk" target="_blank" rel="noopener noreferrer">Global Digital Care</a> </span>
+							<span className="fbottom-like"> Design With <Link className="like-btn" to={"#"}><i className="fa fa-heart"></i></Link> By <a href="https://globaldigitalcare.pk" target="_blank" rel="noopener noreferrer">Global Digital Care.</a> </span>
 						</div>
 					</div>
 				</div>
